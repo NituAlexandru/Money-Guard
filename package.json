@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "moneyguard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oxs90.github.io/MoneyGuard/",
+  "homepage": "https://NituAlexandru.github.io/Money-Guard/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.2.2",
